@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EjemploLipeRmiLibImc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../EjemploLipeRmiLibImc/out/artifacts/EjemploLipeRmiLibImc_jar/EjemploLipeRmiLibImc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
